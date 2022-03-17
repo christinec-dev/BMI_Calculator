@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="underweight">Underweight &amp;lt= 18.5 </string>
+    <string name="normal">Normal weight = 18.5 – 24.9 </string>
+    <string name="overweight">Overweight = 25 – 29.9 </string>
+</resources>
